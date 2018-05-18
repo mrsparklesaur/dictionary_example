@@ -1,4 +1,5 @@
 name: example_dictionary
+science_domain: geology
 case_sensitive: true
 word_stemming: true
 base_classification: car

@@ -4,7 +4,7 @@ sources, they contain terms that are used to cull and subset articles and
 sentences. Additionally, they may be used as an advanced form of NER tagging.
 
 This repository contains an example of a way to define a github-based
-dicionary.  This has the benefit of being 1. publically accessible to the
+dictionary.  This has the benefit of being 1. publically accessible to the
 GeoDeepDive infrastructure and 2. version controlled.
 
 Two files are required at minimum to define the dictionary:
@@ -27,10 +27,10 @@ structures.
 For example, an entry of:
 
 ```
-Homo sapiens,mammalia,primates,hominidae
+Homo sapiens,Mammalia,Primates,Hominidae
 ```
-Will create a dictionary entry of "Homo sapiens" and require one of [mammalia,
-primates, hominidae] to also be mentioned within a document to be considered a
+Will create a dictionary entry of "Homo sapiens" and require one of [Mammalia,
+Primates, Hominidae] to also be mentioned within a document to be considered a
 match.
 
 

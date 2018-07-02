@@ -1,6 +1,6 @@
-name: example_dictionary
-user: name@domain.com
-knowledge_domain: transportation
-case_sensitive: true
+name: agbiosecurity
+user: rachel.slatyer@agriculture.gov.au
+knowledge_domain: biology
+case_sensitive: false
 word_stemming: false
 base_classification: car
